@@ -1,1 +1,1 @@
-# diploma-work
+# Diploma work
